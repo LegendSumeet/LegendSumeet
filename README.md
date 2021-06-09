@@ -29,7 +29,7 @@ Skills: C++ / Data Structures and Algorithms / JS / HTML / CSS
 
 
 
-[<img src='https://static-exp1.licdn.com/sc/h/8zliikpi39umlw2wr99gu4a0u' alt='linkedin' height='40'>](www.linkedin.com/in/sumeetvishwakarma/) 
+[<img src='https://static-exp1.licdn.com/sc/h/8zliikpi39umlw2wr99gu4a0u' alt='linkedin' height='40'>](https://www.linkedin.com/in/sumeetvishwakarma/) 
 
 
 [<img src='https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.svg' alt='codechef' height='50'>](https://www.codechef.com/users/the_sumeet)
