@@ -25,7 +25,7 @@ Skills: C++ / Data Structures and Algorithms / JS / HTML / CSS
 - 🌱 I’m currently learning Open Source 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/theSumeetGitHub)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sumeetvishwakarma/)  [<img src='https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.svg' alt='codechef' height='40'>](https://www.codechef.com/users/the_sumeet)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/theSumeetK?hr_r=1)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/theSumeetGitHub)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sumeetvishwakarma/)  [<img src='https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.svg' alt='codechef' height='50'>](https://www.codechef.com/users/the_sumeet)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/theSumeetK?hr_r=1)  
 
 
 
