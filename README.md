@@ -1,4 +1,4 @@
-### Hi there, I'm Sumeet👋
+### Hi there, I'm Sumeet👋....
 
 ## I'm a Student, Learner, Competitive Coder, and Tech Enthusiast!!
 
