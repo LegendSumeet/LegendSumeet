@@ -1,7 +1,11 @@
 ### Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.linkedin.com/in/sumeetvishwakarma/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a><br>
+  <img align="left" alt=" LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+<a href="https://linktr.ee/theSumeet">
+  <img align="left" alt="linktree" width="22px" src="https://img.icons8.com/color/452/linktree.png" />
+</a><br><br>
 
 ## I'm a Student, Learner, Competitive Coder, and Tech Enthusiast!!
 
