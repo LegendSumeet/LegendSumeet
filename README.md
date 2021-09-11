@@ -25,6 +25,7 @@
 
 ### My Experiences 🙌
 - [Open Source Contributor](https://letsgrowmore.in/soc/) - LGM – SOC is an online program designed to encourage student participation in open source software development under the guidance of mentors from the open source community. As it’s the present demand and students need, so we come with LGMSOC [Verify](https://drive.google.com/file/d/1GnY94E2sZKqCwKm_cAD6KBwxkZjPFgek/view?usp=sharing)
+- [CodonFestMentor](https://skillshipfoundation.com/) - Codonfest Mentor with Skillship Foundation(CodonFest 2.0)by the year 2021 for mentoring the students in Competitive programming with Data Structures and Algorithms in C++.
 
 
 ### Honors & Awards 🏅
