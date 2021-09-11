@@ -17,10 +17,9 @@
 <br />
 
 ### About Me 🚀
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with Open Source
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar
+🎓 I’m an Tech enthusiast & a junior pursuing my Bachelors in Information Technology.
+
+👨‍💻 I am passionate about Kubernetes, Web Dev & I enjoy learning new things.
 
 
 ### My Experiences 🙌
@@ -31,7 +30,7 @@
 
 
 ### Honors & Awards 🏅
-- [Top 3 performer badgr](https://api.eu.badgr.io/public/assertions/7FHeWLj1TrmYpNT4TaYEog?identity__email=vishwakarmasumeet01%40gmail.com) performers in the DSA Coding contest during the "CODE DRAGON - A College Coding Battle 2021" by GirlScript NMIT
+- [Top 3 performer badgr](https://api.eu.badgr.io/public/assertions/7FHeWLj1TrmYpNT4TaYEog?identity__email=vishwakarmasumeet01%40gmail.com)in the DSA Coding contest during the "CODE DRAGON - A College Coding Battle 2021" by GirlScript NMIT
 - [Code Gladiators 2021 Semi Finalist](https://drive.google.com/file/d/14lLjSYEaa2wo2DQ26fdtnIqm0lVKqG2o/view)
 - Secured 88 Global Rank in CodeChef June Challenge 2021
 - Secured 155 Global Rank in CodeChef July Challenge 2021
