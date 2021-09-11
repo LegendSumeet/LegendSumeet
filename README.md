@@ -26,6 +26,8 @@
 ### My Experiences 🙌
 - [Open Source Contributor](https://letsgrowmore.in/soc/) - LGM – SOC is an online program designed to encourage student participation in open source software development under the guidance of mentors from the open source community. As it’s the present demand and students need, so we come with LGMSOC [Verify](https://drive.google.com/file/d/1GnY94E2sZKqCwKm_cAD6KBwxkZjPFgek/view?usp=sharing)
 - [CodonFestMentor](https://skillshipfoundation.com/) - Codonfest Mentor with Skillship Foundation(CodonFest 2.0)by the year 2021 for mentoring the students in Competitive programming with Data Structures and Algorithms in C++.
+- [GirlScript Winter of Contributing | Contributor](https://gwoc.girlscript.tech/) - Contributing to a content repository. For three months, i will work on selected domains like  Android Development with Java, Front-end Web Development with HTML, CSS, JavaScript, Bootstrap, C/C++ under the supervision of experienced supervisors and Mentoring of mentors.
+- [Give my certificate | Student Partner](https://www.givemycertificate.com/) - Give my certificate is a platform for organizations to generate and send verifiable documents, which the recipient or any intending third party can verify on the platform itself, that too in just a few clicks. To make things even better we also introduced a Karma Score for each credential, based on the category and relevance of the document [Verify](https://verify.givemycertificate.com/verify/F512-DVJH-UBFR-FZAP)
 
 
 ### Honors & Awards 🏅
