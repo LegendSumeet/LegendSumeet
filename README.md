@@ -9,10 +9,17 @@
 <a href="mailto:vishwakarmasumeet01@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-</a>
+
 <a href="http://dev.to/legendsumeet">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
+<a href="https://www.codechef.com/users/the_sumeet">
+  <img align="left" width="29px" src="https://icons-for-free.com/iconfiles/png/512/codechef-1324440139527402917.png"  /> 
+<a href="https://leetcode.com/theSumeet/">
+  <img align="left" width="29px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"  />
+<a href="https://www.hackerrank.com/theSumeetK/">
+  <img align="left" width="31px" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg"  />
+  
 
 <br />
 
