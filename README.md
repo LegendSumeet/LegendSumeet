@@ -43,9 +43,6 @@
 - Secured 155 Global Rank in CodeChef July Challenge 2021
 
 
-![Sumeet's github stats](https://github-readme-stats.vercel.app/api?username=LegendSumeet&show_icons=true&hide_border=true)
-<br />
-
 
 
 
