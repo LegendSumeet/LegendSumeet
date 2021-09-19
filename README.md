@@ -20,6 +20,8 @@
 <a href="https://www.hackerrank.com/theSumeetK/">
   <img align="left" width="31px" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg"  />
   
+  <img src="https://komarev.com/ghpvc/?username=LegendSumeet&label=Profile%20views&color=0e75b6&style=flat" alt="adityastark7" />
+  
 
 <br />
 
