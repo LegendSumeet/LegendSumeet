@@ -8,14 +8,15 @@
   <img align="left" width="26px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="mailto:vishwakarmasumeet01@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" width="26px" src="https://www.iconfinder.com/icons/7089163/download/svg/4096" />
 </a>
 
 <a href="http://dev.to/legendsumeet">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+  <img align="left" width="26px" src="https://scontent.fbom5-1.fna.fbcdn.net/v/t1.6435-9/59375772_1248285658681086_4418084303066365952_n.png?_nc_cat=101&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=lA55Zj7mDmIAX8S-eP2&_nc_ht=scontent.fbom5-1.fna&oh=4e35136d340b02d19c23bfbdd58b7c5b&oe=616C5E33" />
 </a>
 <a href="https://www.codechef.com/users/the_sumeet">
-  <img align="left" width="29px" src="https://icons-for-free.com/iconfiles/png/512/codechef-1324440139527402917.png"  /> 
+  <img align="left" width="29px" src="https://scontent.fbom5-1.fna.fbcdn.net/v/t1.6435-9/210043458_2958677947722857_7783182094415856935_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=4BhzJZEo_KYAX8c7mu8&_nc_ht=scontent.fbom5-1.fna&oh=414f53147ec5534e4e96ffbf61ef32f1&oe=616E8CF9"  /> 
+  
 <a href="https://leetcode.com/theSumeet/">
   <img align="left" width="29px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"  />
 <a href="https://www.hackerrank.com/theSumeetK/">
