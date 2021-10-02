@@ -28,8 +28,7 @@
 <br />
 
 ### About Me 🚀
-🎓 I’m an Tech enthusiast & a junior pursuing my Bachelors in Information Technology.
-  
+🎓 I’m an Tech enthusiast & a junior pursuing my Bachelors in Information Technology.  
 👨‍💻 I am passionate about Software Dev, Web Dev & I enjoy learning new things.
 
 
