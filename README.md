@@ -39,15 +39,8 @@
 - [Open Source Contributor](https://letsgrowmore.in/soc/) - LGM – SOC is an online program designed to encourage student participation in open source software development under the guidance of mentors from the open source community. As it’s the present demand and students need, so we come with LGMSOC [Verify](https://drive.google.com/file/d/1GnY94E2sZKqCwKm_cAD6KBwxkZjPFgek/view?usp=sharing)
 - [Give my certificate | Student Partner](https://www.givemycertificate.com/) - Give my certificate is a platform for organizations to generate and send verifiable documents, which the recipient or any intending third party can verify on the platform itself, that too in just a few clicks. To make things even better we also introduced a Karma Score for each credential, based on the category and relevance of the document [Verify](https://verify.givemycertificate.com/verify/F512-DVJH-UBFR-FZAP)
 
-
 ### Honors & Awards 🏅
 - [Top 3 performer badgr](https://api.eu.badgr.io/public/assertions/7FHeWLj1TrmYpNT4TaYEog?identity__email=vishwakarmasumeet01%40gmail.com) in the DSA Coding contest during the "CODE DRAGON - A College Coding Battle 2021" by @GirlScript NMIT
 - [Code Gladiators 2021 Semi Finalist](https://drive.google.com/file/d/14lLjSYEaa2wo2DQ26fdtnIqm0lVKqG2o/view)
 - Secured 88 Global Rank in CodeChef June Challenge 2021
 - Secured 155 Global Rank in CodeChef July Challenge 2021
-
-  
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=LegendSumeet)](https://github.com/anuraghazra/github-readme-stats) 
-
- 
- 
