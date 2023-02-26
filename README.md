@@ -44,7 +44,7 @@
 - Secured 155 Global Rank in CodeChef July Challenge 2021
   
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=legendsumeet&show_icons=true" alt="NiravPrajapati_stats" /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=legendsumeet&show_icons=true" /> 
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niravprajapati1&layout=compact" alt="stats" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Niravprajapati1" alt="Profile visits" /></p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=legendsumeet&layout=compact" alt="stats" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=legendsumeet" alt="Profile visits" /></p>
