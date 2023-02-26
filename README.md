@@ -48,5 +48,4 @@
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=legendsumeet&layout=compact" alt="stats" />
   
-  ![github contribution grid snake animation](https://raw.githubusercontent.com/legendsumeet/legendsumeet/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/legendsumeet/legendsumeet/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
