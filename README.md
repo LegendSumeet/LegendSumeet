@@ -47,4 +47,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=legendsumeet&show_icons=true" /> 
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=legendsumeet&layout=compact" alt="stats" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=legendsumeet" alt="Profile visits" /></p>
+
