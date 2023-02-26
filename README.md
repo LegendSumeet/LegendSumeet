@@ -42,3 +42,9 @@
 - [Code Gladiators 2021 Semi Finalist](https://drive.google.com/file/d/14lLjSYEaa2wo2DQ26fdtnIqm0lVKqG2o/view)
 - Secured 88 Global Rank in CodeChef June Challenge 2021
 - Secured 155 Global Rank in CodeChef July Challenge 2021
+  
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=legendsumeet&show_icons=true" alt="NiravPrajapati_stats" /> 
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niravprajapati1&layout=compact" alt="stats" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Niravprajapati1" alt="Profile visits" /></p>
