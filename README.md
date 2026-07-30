@@ -1,188 +1,72 @@
-<h1 align="center">Hi 👋, I'm Sumeet Vishwakarma</h1>
-<h3 align="center">Founding Engineer • AI Systems • Backend • Cloud Architecture</h3>
+<div align="center">
 
-<p align="center">
-Building AI-native platforms for regulated industries using scalable backend systems, LLMs, and cloud infrastructure.
-</p>
+# Hi, I'm Sumeet Vishwakarma 👋
 
-<p align="center">
-  <a href="https://github.com/sumeetvishwakarma">
-    <img src="https://komarev.com/ghpvc/?username=sumeetvishwakarma&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
-</p>
+**Passionate Software Engineer · AI & Distributed Systems Enthusiast · Open Source Contributor**
 
----
+Harnessing the power of software to create impactful solutions in the AI space. Always learning, always building.
 
-# 💫 About Me
+[![Portfolio](https://img.shields.io/badge/🌍_Portfolio-legendsumeet.in-black?style=flat-square)](https://legendsumeet.in)
+[![GitHub](https://img.shields.io/badge/GitHub-LegendSumeet-000?style=flat-square&logo=github)](https://github.com/LegendSumeet)
+[![Twitter](https://img.shields.io/badge/Twitter-legendsumeet-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/legendsumeet)
 
-🚀 **Currently Building**
-- AI-powered SaaS platform for medical device regulatory compliance
-- Multi-agent LLM workflows using Azure OpenAI
-- Enterprise RAG pipelines over large document collections
-- High-performance extraction and AI processing infrastructure
-
-🏗 **Current Focus**
-- Microservices Architecture
-- Distributed Systems
-- Event-Driven Architecture
-- AI Infrastructure
-- Production LLM Applications
-
-🌱 **Currently Learning**
-- Advanced Kubernetes
-- AI Agent Orchestration
-- Distributed AI Systems
-- Cloud Infrastructure at Scale
-
-💬 **Ask Me About**
-- TypeScript
-- NestJS
-- Next.js
-- AI Agents
-- RAG
-- Azure OpenAI
-- LangGraph
-- PostgreSQL
-- Redis
-- BullMQ
-- Docker
-- Kubernetes
-- System Design
-
-⚡ **Fun Fact**
-I enjoy building scalable systems almost as much as I enjoy watching Anime.
+</div>
 
 ---
 
-# 🌐 Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/sumeetvishwakarma" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-<a href="https://twitter.com/Legendsumeet07" target="_blank">
-<img src="https://skillicons.dev/icons?i=twitter" height="45"/>
-</a>
-<a href="https://instagram.com/legendsumeet" target="_blank">
-<img src="https://skillicons.dev/icons?i=instagram" height="45"/>
-</a>
-</p>
+## 🧑‍💻 About Me
+- 🏢 Currently innovating at **Phablo AI** in Mumbai
+- 🛠️ Focused on building robust, scalable AI-powered systems
+- 💡 Ask me about AI engineering, distributed systems, and cloud infrastructure
+- 🌟 Inspired by anime's storytelling and strategy, translating those lessons into engineering
+- 📚 Constantly exploring new technologies through side projects and experiments
 
 ---
 
-# 🚀 Tech Stack
+## 🛠 Tech Stack
 
-## Languages
+**Languages**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-<p>
-<img src="https://skillicons.dev/icons?i=ts,js,python,java,dart" />
-</p>
+**Frameworks & Libraries**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
-## Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,graphql" />
-</p>
-
-## Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,flutter" />
-</p>
-
-## AI & Data
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,supabase,firebase" />
-</p>
-
-### AI Technologies
-
-- Azure OpenAI
-- LangGraph
-- RAG Pipelines
-- LLM Agents
-- Vector Search
-- Prompt Engineering
-- AI Workflow Orchestration
-
-## DevOps & Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,git,github,vercel" />
-</p>
-
-## Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,postman,jira" />
-</p>
+**DevOps & Cloud**
+![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
-# 💼 Current Work
-
-### 🏥 AI Regulatory Compliance Platform
-
-Working on an enterprise AI platform that helps medical device manufacturers automate regulatory document analysis and submission readiness.
-
-**Highlights**
-
-- 🤖 Multi-Agent AI Architecture
-- 📄 Intelligent Document Processing
-- 🔍 Enterprise RAG
-- ⚙️ Event-Driven Microservices
-- ☁️ Azure Cloud Infrastructure
-- 📊 Regulatory Compliance Automation
+## 📈 Experience Highlights
+- 🚀 Developed an AI-powered regulatory compliance platform for medical device manufacturers, focusing on microservices and LLM workflows.
+- 🌐 Continuous exploration of AI agents and distributed AI infrastructure to build next-gen intelligent systems.
 
 ---
 
-# 📈 GitHub Stats
+## 🚀 Featured Projects
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sumeetvishwakarma&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sumeetvishwakarma&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumeetvishwakarma&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+| Project                               | Description                                                                                             | Stack               |
+|---------------------------------------|---------------------------------------------------------------------------------------------------------|---------------------|
+| [eventapp](https://github.com/LegendSumeet/eventapp)           | An event management app built with Dart.                                                                | Dart                |
+| [Face-Recognition-android](https://github.com/LegendSumeet/Face-Recognition-android) | Face Recognition on Android using TensorFlow Lite.                                                      | Java, TensorFlow    |
+| [androidTakecare](https://github.com/LegendSumeet/androidTakecare)             | A health awareness app targeting rural areas.                                                           | Java                |
+| [legendportfolio](https://github.com/LegendSumeet/legendportfolio)           | A portfolio site showcasing my work and skills, built with TypeScript.                                  | TypeScript          |
 
 ---
 
-# 🏆 GitHub Trophies
+## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sumeetvishwakarma&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=4"/>
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumeetvishwakarma&theme=tokyo-night&hide_border=true"/>
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=LegendSumeet&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LegendSumeet&layout=compact&langs_count=8&hide=html,css,scss&size_weight=0.5&count_weight=0.5)
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/sumeetvishwakarma/sumeetvishwakarma/output/github-contribution-grid-snake-dark.svg" />
-</p>
+## 🏆 Writing / Talks / Achievements
+- 🎙️ Regularly engage in discussions about AI and cloud computing, focusing on the future of software engineering.
 
 ---
 
-# ✨ Favorite Quote
-
-> *"First solve the problem. Then, write the code."* — John Johnson
+## 📫 Let's Connect
+- 📬 Reach out via [Twitter](https://twitter.com/legendsumeet) or explore my [portfolio](https://legendsumeet.in) for more insights.
+- 🚀 "In the world of software, there's always more to explore. Keep building, keep learning." - Sumeet Vishwakarma
 
 ---
-
-<p align="center">
-Thanks for visiting! ⭐ Feel free to explore my repositories and connect with me.
-</p>
