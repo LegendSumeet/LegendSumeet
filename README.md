@@ -1,11 +1,188 @@
-# 💫 About Me:
-🔭 **I’m currently working on:**  <br>Improving cloud-based solutions and implementing microservices architecture.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects and Flutter App<br><br>🌱 **I’m currently learning:**  <br>Advanced AWS Services and GraphQL.<br><br>💬 **Ask me about:**  <br>JavaScript, React, Nextjs, Node.js, AWS, and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I love to Watch Anime.
+<h1 align="center">Hi 👋, I'm Sumeet Vishwakarma</h1>
+<h3 align="center">Founding Engineer • AI Systems • Backend • Cloud Architecture</h3>
 
-## 🌐 Socials:
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Legendsumeet07) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/legendsumeet) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sumeetvishwakarma)
-# 💻 Tech Stack:
-![Flutter](https://img.shields.io/badge/flutter-000000?style=for-the-badge&logo=flutter&logoColor=white)![Firebase](https://img.shields.io/badge/firebase-yellow?style=for-the-badge&logo=firebase&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) 	![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+<p align="center">
+Building AI-native platforms for regulated industries using scalable backend systems, LLMs, and cloud infrastructure.
+</p>
 
+<p align="center">
+  <a href="https://github.com/sumeetvishwakarma">
+    <img src="https://komarev.com/ghpvc/?username=sumeetvishwakarma&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+</p>
 
 ---
+
+# 💫 About Me
+
+🚀 **Currently Building**
+- AI-powered SaaS platform for medical device regulatory compliance
+- Multi-agent LLM workflows using Azure OpenAI
+- Enterprise RAG pipelines over large document collections
+- High-performance extraction and AI processing infrastructure
+
+🏗 **Current Focus**
+- Microservices Architecture
+- Distributed Systems
+- Event-Driven Architecture
+- AI Infrastructure
+- Production LLM Applications
+
+🌱 **Currently Learning**
+- Advanced Kubernetes
+- AI Agent Orchestration
+- Distributed AI Systems
+- Cloud Infrastructure at Scale
+
+💬 **Ask Me About**
+- TypeScript
+- NestJS
+- Next.js
+- AI Agents
+- RAG
+- Azure OpenAI
+- LangGraph
+- PostgreSQL
+- Redis
+- BullMQ
+- Docker
+- Kubernetes
+- System Design
+
+⚡ **Fun Fact**
+I enjoy building scalable systems almost as much as I enjoy watching Anime.
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/sumeetvishwakarma" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+<a href="https://twitter.com/Legendsumeet07" target="_blank">
+<img src="https://skillicons.dev/icons?i=twitter" height="45"/>
+</a>
+<a href="https://instagram.com/legendsumeet" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" height="45"/>
+</a>
+</p>
+
+---
+
+# 🚀 Tech Stack
+
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=ts,js,python,java,dart" />
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,graphql" />
+</p>
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,flutter" />
+</p>
+
+## AI & Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,supabase,firebase" />
+</p>
+
+### AI Technologies
+
+- Azure OpenAI
+- LangGraph
+- RAG Pipelines
+- LLM Agents
+- Vector Search
+- Prompt Engineering
+- AI Workflow Orchestration
+
+## DevOps & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,git,github,vercel" />
+</p>
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,postman,jira" />
+</p>
+
+---
+
+# 💼 Current Work
+
+### 🏥 AI Regulatory Compliance Platform
+
+Working on an enterprise AI platform that helps medical device manufacturers automate regulatory document analysis and submission readiness.
+
+**Highlights**
+
+- 🤖 Multi-Agent AI Architecture
+- 📄 Intelligent Document Processing
+- 🔍 Enterprise RAG
+- ⚙️ Event-Driven Microservices
+- ☁️ Azure Cloud Infrastructure
+- 📊 Regulatory Compliance Automation
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sumeetvishwakarma&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sumeetvishwakarma&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumeetvishwakarma&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=sumeetvishwakarma&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=4"/>
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumeetvishwakarma&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/sumeetvishwakarma/sumeetvishwakarma/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+# ✨ Favorite Quote
+
+> *"First solve the problem. Then, write the code."* — John Johnson
+
+---
+
+<p align="center">
+Thanks for visiting! ⭐ Feel free to explore my repositories and connect with me.
+</p>
